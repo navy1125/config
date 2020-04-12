@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"strings"
 
-	"git.code4.in/mobilegameserver/logging"
+	"github.com/navy1125/logging"
 )
 
 type ConfigMap map[string]string
